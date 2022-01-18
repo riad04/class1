@@ -1,0 +1,31 @@
+<?php
+/*
+THIS CODE IS FOR CHECK STRING LENGTH
+$f_name = "Riadul";
+$l_name = "Islam";
+echo $f_name," ".$l_name;
+*/
+/*
+THIS CODE IS FOR CHECK STRING REVERSE
+$myname= "Riadul Islam";
+echo strrev($myname);
+*/
+/*
+$cr_name = "Sumon Nath"."<br>";
+$student1 = "Sabbir Rahman";
+$student2 = "Riadul Islam";
+$student3 = "Mahidul Islam";
+echo $cr_name ;
+echo $student1;
+echo $student2;
+echo $student3;
+*/
+/*
+$num1 = 10;
+$num2 = 2;
+echo $num1 + $num2;
+echo $num1 - $num2;
+echo $num1 * $num2;
+echo $num1 / $num2;
+*/
+?>
